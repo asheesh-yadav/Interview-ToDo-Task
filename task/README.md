@@ -1,8 +1,7 @@
 # React Todo App
 
 ##  Description
-
-A simple Todo application built using React.
+ Todo app built using React.
 Users can add, delete, mark tasks as completed, and filter tasks based on their status.
 
 ---
